@@ -43,3 +43,10 @@ Example:
 ## Why deterministic?
 
 Results are computed from official public standards (GS1 Mod-10, ISO 13616, ISO 6166, ISO 3779, U.S. Census NAICS/SIC, U.S. HTS) — auditable and repeatable, unlike AI classifiers that can invent codes that do not exist. More: [methodology](https://code-classify.com/methodology/) · [data sources](https://code-classify.com/data-sources/).
+
+
+## Data automation tools on Apify
+
+The same developer also maintains a separate collection of OCR, PDF, RAG, review, SEO, Google Trends, Google Ads and YouTube data tools on Apify.
+
+**[Browse the Apify data & automation tools →](APIFY_DATA_TOOLS.md)**
